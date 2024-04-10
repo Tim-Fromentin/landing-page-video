@@ -1,2 +1,2 @@
-# Simple loader CSS
+# Landing Page video full screen
 [Result](./result.gif)
